@@ -1,10 +1,14 @@
 # Hi, I'm Kevin 👋🏾
 
+<img align='right' src="https://picsum.photos/400" width="230">
+
 Computer Science Student at <a href="https://www.ucr.ac.cr/">University of Costa Rica</a> <br>
 
 Full Stack Software Developer at <a href="https://4geeksacademy.com/">4Geeks Academy</a>
 
-![Example!](https://picsum.photos/1980/608 "Example")
+
+
+<!--![Example!](https://picsum.photos/1980/608 "Example")
 
 <!--
 **KevinJPC/KevinJPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
