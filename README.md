@@ -1,7 +1,7 @@
 ### Hi, I'm Kevin 👋🏾
 
-Computer science student at <a href:"https://www.ucr.ac.cr/">University of Costa Rica (UCR)</a>
-Full stack software developer at <a href:"">4Geeks Academy</a>
+Computer science student at <a href="https://www.ucr.ac.cr/">University of Costa Rica (UCR)</a>
+Full stack software developer at <a href="https://4geeksacademy.com/">4Geeks Academy</a>
 
 <!--
 **KevinJPC/KevinJPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
