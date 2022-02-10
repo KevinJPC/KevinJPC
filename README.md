@@ -4,8 +4,6 @@ Computer Science Student at <a href="https://www.ucr.ac.cr/">University of Costa
 
 Full Stack Software Developer at <a href="https://4geeksacademy.com/">4Geeks Academy</a>
 
-<iframe src="https://gifer.com/embed/5eKX" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-
 <!--
 **KevinJPC/KevinJPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
