@@ -1,4 +1,4 @@
-##### Hi, I'm Kevin 👋🏾
+# Hi, I'm Kevin 👋🏾
 
 Computer Science Student at <a href="https://www.ucr.ac.cr/">University of Costa Rica (UCR)</a>
 
