@@ -1,6 +1,6 @@
 # Hi, I'm Kevin 👋🏾
 
-Computer Science Student at <a href="https://www.ucr.ac.cr/">University of Costa Rica (UCR)</a>
+Computer Science Student at <a href="https://www.ucr.ac.cr/">University of Costa Rica</a>
 
 Full Stack Software Developer at <a href="https://4geeksacademy.com/">4Geeks Academy</a>
 
