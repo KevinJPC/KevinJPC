@@ -4,7 +4,7 @@ Computer Science Student at <a href="https://www.ucr.ac.cr/">University of Costa
 
 Full Stack Software Developer at <a href="https://4geeksacademy.com/">4Geeks Academy</a>
 
-[![An old rock in the desert](https://picsum.photos/200/300, "New Mexico by Beau Rogers")](https://picsum.photos/200/300)
+![The San Juan Mountains are beautiful!](https://picsum.photos/200/300 "San Juan Mountains")
 
 <!--
 **KevinJPC/KevinJPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
