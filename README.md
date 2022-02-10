@@ -1,6 +1,6 @@
 ### Hi, I'm Kevin 👋🏾
-<a href="http://www.unb.br">University of Brasilia</a>
-Computer science student at <a href:"">University of Costa Rica (UCR)</a>
+
+Computer science student at <a href:"https://www.ucr.ac.cr/">University of Costa Rica (UCR)</a>
 Full stack software developer at <a href:"">4Geeks Academy</a>
 
 <!--
