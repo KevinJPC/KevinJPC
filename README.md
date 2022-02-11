@@ -2,7 +2,7 @@
 
 <img src="./img/banner-grayscale.gif">
 
-I'm currently studying computer science at the <a href="https://www.ucr.ac.cr/">University of Costa Rica</a> (UCR) and graduated as a full stack software developer at <a href="https://4geeksacademy.com/">4Geeks Academy</a>. Some technologies I have used are ReactJS, Strapi, MySQL, Flask-SQLAlchemy, SQLServer, .Net and others and currently learning Angular and Node.js 
+I'm currently studying computer science at the <a href="https://www.ucr.ac.cr/">University of Costa Rica</a> (UCR) and graduated as a full stack software developer at <a href="https://4geeksacademy.com/">4Geeks Academy</a>. Some technologies I have used are ReactJS, Strapi, MySQL, Flask-SQLAlchemy, SQLServer, .Net and others. Also, I'm currently learning Angular and Node.js 
 
 ## Find me around the web: <img src="">
 - 📷 <a href="https://www.instagram.com/kevinpitticastro/">Instagram</a>
