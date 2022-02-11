@@ -6,7 +6,7 @@ I'm currently studying computer science at the <a href="https://www.ucr.ac.cr/">
 
 ## Find me around the web: <img src="">
 - 📷 <a href="https://www.instagram.com/kevinpitticastro/">Instagram</a>
-- 💼 My personal <a href="www.linkedin.com/in/kevinpitti">LinkedIn</a>
+- 💼 My personal <a href="https://www.linkedin.com/in/kevinpitti">LinkedIn</a>
 
 <!--
 **KevinJPC/KevinJPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
