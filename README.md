@@ -2,10 +2,7 @@
 
 <img src="./img/banner-grayscale.gif">
 
-Computer Science Student at <a href="https://www.ucr.ac.cr/">University of Costa Rica</a> <br>
-
-Full Stack Software Developer at <a href="https://4geeksacademy.com/">4Geeks Academy</a>
-
+I'm currently studying computer science at the <a href="https://www.ucr.ac.cr/">University of Costa Rica</a> (UCR) and graduated as a full stack software developer at <a href="https://4geeksacademy.com/">4Geeks Academy</a>. Some technologies I have used are ReactJS, Strapi, MySQL, Flask-SQLAlchemy, SQLServer, .Net and others and currently learning Angular and Node.js 
 
 
 <!--![Example!](https://picsum.photos/1980/608 "Example")
