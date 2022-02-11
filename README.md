@@ -4,8 +4,9 @@
 
 I'm currently studying computer science at the <a href="https://www.ucr.ac.cr/">University of Costa Rica</a> (UCR) and graduated as a full stack software developer at <a href="https://4geeksacademy.com/">4Geeks Academy</a>. Some technologies I have used are ReactJS, Strapi, MySQL, Flask-SQLAlchemy, SQLServer, .Net and others and currently learning Angular and Node.js 
 
-
-<!--![Example!](https://picsum.photos/1980/608 "Example")
+## Find me around the web: <img src="">
+- 📷 <a href="https://www.instagram.com/kevinpitticastro/">Instagram</a>
+- 💼 My personal <a href="www.linkedin.com/in/kevinpitti">LinkedIn</a>
 
 <!--
 **KevinJPC/KevinJPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
