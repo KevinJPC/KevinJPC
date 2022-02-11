@@ -1,6 +1,6 @@
 # Hi, I'm Kevin 👋🏾
 
-<img src="https://picsum.photos/1920/620?grayscale">
+<img src="./img/banner.gif">
 
 Computer Science Student at <a href="https://www.ucr.ac.cr/">University of Costa Rica</a> <br>
 
