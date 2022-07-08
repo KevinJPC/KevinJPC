@@ -1,6 +1,7 @@
 # Hi, I'm Kevin 👋🏾
 
-<img src="./img/banner-grayscale.gif">
+<!--<img src="./img/banner-grayscale.gif">-->
+<iframe style="border: none" width="475" height="480" src="https://rive.app/s/XRLqY37mn0i4h_uNz6Rvxw/embed" allowfullscreen></iframe>
 
 I'm currently studying computer science at the <a href="https://www.ucr.ac.cr/">University of Costa Rica</a> (UCR) and graduated as a full stack software developer at <a href="https://4geeksacademy.com/">4Geeks Academy</a>. Some technologies I have used are React, Python, MySQL, Flask and others.
 
