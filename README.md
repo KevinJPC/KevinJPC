@@ -1,7 +1,7 @@
 # Hi, I'm Kevin 👋🏾
 
 <!--<img src="./img/banner-grayscale.gif">-->
-![New_Artboard_-_idle__2__AdobeExpress (1)](https://user-images.githubusercontent.com/77554887/178049621-1f5506ef-1a1f-4e78-9936-f509b06aa4b9.gif)
+![logo banner](https://user-images.githubusercontent.com/77554887/178049621-1f5506ef-1a1f-4e78-9936-f509b06aa4b9.gif)
 
 
 
