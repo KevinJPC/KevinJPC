@@ -1,7 +1,8 @@
 # Hi, I'm Kevin 👋🏾
 
 <!--<img src="./img/banner-grayscale.gif">-->
-![New_Artboard_-_idle__1__AdobeExpress](https://user-images.githubusercontent.com/77554887/178048708-1527080e-e09d-4a7c-81ee-e9dd79c6202d.gif)
+![New_Artboard_-_idle__2__AdobeExpress (1)](https://user-images.githubusercontent.com/77554887/178049621-1f5506ef-1a1f-4e78-9936-f509b06aa4b9.gif)
+
 
 
 I'm currently studying computer science at the <a href="https://www.ucr.ac.cr/">University of Costa Rica</a> (UCR) and graduated as a full stack software developer at <a href="https://4geeksacademy.com/">4Geeks Academy</a>. Some technologies I have used are React, Python, MySQL, Flask and others.
